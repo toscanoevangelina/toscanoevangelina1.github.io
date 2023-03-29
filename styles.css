@@ -1,0 +1,65 @@
+* {
+  color:rgb(4, 4, 22)
+}
+
+    #principal {
+        border: solid 2px black;
+        white-space: 90%;
+        Margin: 20 auto;
+        padding: 100 px;
+    }    
+    
+fieldset {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+}
+legend{
+    border: solid 1px black;
+    padding: 5px;
+    font-weight: bolder;
+    box-sizing: 20px;
+ background: rgb(128, 128, 128);
+   
+}
+#mifoto{
+    margin: 10px;
+    border: solid  10px bisque;
+    
+
+    
+}
+body{
+background-color: rosybrown;
+
+}
+
+
+/**
+Esto es un comentario dentro de un documento CSS
+*/
+
+
+h2 {
+    margin-top: 50;
+    margin-left: 50;
+    margin-bottom: 100;
+    font-weight: 200px;
+    color: black;
+    background-color: gray;
+    
+    
+  }
+
+  #demo {
+    color: black;
+    font-size: large;
+
+
+  
+}
+#boton {
+    color: blueviolet;
+    background-color: burlywood;
+    font-size: medium;
+}
